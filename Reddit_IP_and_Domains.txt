@@ -7,8 +7,6 @@ redditstatic.com
 redditstatus.com
 amp-reddit-com.cdn.ampproject.org
 reddit.map.fastly.net
-wikiislam.github.io
-wikiislam.net
 yul02s05-in-f19.1e100.net
 146.75.37.140
 34.206.27.131
